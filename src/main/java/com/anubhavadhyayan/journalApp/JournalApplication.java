@@ -2,7 +2,7 @@ package com.anubhavadhyayan.journalApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+/**Created By Anubhav Adhyayan 15th May 2024*/
 @SpringBootApplication
 public class JournalApplication {
 
